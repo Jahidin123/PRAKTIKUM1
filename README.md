@@ -11,7 +11,7 @@
 	-menghitung hasil Luas persegi panjang, dan menampilkan hasil dari L.
 		<< cout" hasilnya adalah : " << L << endl;
 
-#menentukan bilangan genap dan ganjil
+        #menentukan bilangan genap dan ganjil
 	mendeklarasikan int nilai, hasil
 	mengisikan deklarasi
 		keluaran<<
