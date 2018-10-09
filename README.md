@@ -1,6 +1,8 @@
 # praktikum1
 
-
+	NIM = 311810704
+	NAMA = JAHIDIN SHOLEH
+	
 	#latihan pertama
 	membuat perhitungan luas persegi panjang
 	-mendeklarasikan int p,l,L
