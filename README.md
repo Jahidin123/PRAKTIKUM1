@@ -1,4 +1,4 @@
-# praktikum
+# praktikum1
 
 
 	#latihan pertama
