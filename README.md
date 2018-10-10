@@ -3,8 +3,8 @@
 	NIM = 311810704
 	NAMA = JAHIDIN SHOLEH
 	
-	#latihan pertama
-	membuat perhitungan luas persegi panjang
+	#LATIHAN 1,2 DAN 3
+	#membuat perhitungan luas persegi panjang
 	-mendeklarasikan int p,l,L
 	-mengisikan deklarasi 
 		p = 13;
@@ -24,7 +24,22 @@
 		keluaran = "genap"
 		else "jika salah
 		keluaran ="ganjil"
-	menentukan bilangan ganjil dan genap, dan menampilkan hasil,
+	menentukan bilangan ganjil dan genap, menampilkan hasil,
 	<< cout" hasilnya adalah : " << hasil << endl;
+	
+	#MENENTUKAN NILAI TERBESAR
+		MENDEKLARASIKAN INT A,B;
+		MENGISIKAN DEKLARASI
+		keluaran<<
+		keluaran<<
+		masukan>>A
+		KELUARAN<<
+		MASUKAN >>B
 		
+		if  NILAI (A >B )" 
+		keluaran = "NILAI TERBESAR" MAKA HASILNYA A
+		else 
+		keluaran ="NILAI TERBESAR" MAKA HASILNYA B
+	MENENTUKAN NILAI TERBESAR DARI 2 BILANGAN, DAN MENAMPILKAN HASIL ,
+	
 	
